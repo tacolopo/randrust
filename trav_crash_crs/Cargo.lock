@@ -5,5 +5,3 @@ version = 3
 [[package]]
 name = "rust_sandbox"
 version = "0.1.0"
-
-#commit to add reviewers
